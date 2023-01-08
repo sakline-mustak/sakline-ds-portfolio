@@ -4,7 +4,7 @@
 
 /* header section styles */
 .header {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url('/images/banner/banner2.png');
     background-repeat: no-repeat;
     width: 1599px;
     height: 837px;
@@ -153,7 +153,7 @@
 
 /* positive section styles */
 .positive {
-    background: linear-gradient(90deg, rgba(228, 93, 15, 1.5), rgb(255,255,255,0)), url("/images/watch.png");
+    background: linear-gradient(90deg, rgba(228, 93, 15, 1.5), rgb(255,255,255,0)), url('/images/watch.png');
     background-position:left;
     background-repeat: none;
     display: grid;
